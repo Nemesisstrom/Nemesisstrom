@@ -98,6 +98,28 @@ Developed mobile application projects using Flutter.
 
 **Technologies:** Flutter, Dart, REST API
 
+### 5. Cocolink System
+
+A web-based application developed to support digital information management and operational processes.
+
+**Project Details:**
+- Web application development
+- Data management
+- Backend and frontend integration
+
+**Technologies:** Add the technologies used in this project.
+
+### 6. Rice and Corn Management System
+
+A web-based information system designed to support the management of rice and corn-related data.
+
+**Project Details:**
+- Agricultural data management
+- Information management
+- Data processing and reporting
+
+**Technologies:** Add the technologies used in this project.
+
 ---
 
 ## 📊 GitHub Statistics
