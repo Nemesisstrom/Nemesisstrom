@@ -46,79 +46,102 @@ I enjoy building web applications, developing backend systems, designing relatio
 
 ---
 
+
 ## 🚀 Featured Projects
+
+A collection of software development projects focused on web applications, information systems, financial management, and mobile application development.
 
 ### 1. Financial Management Information System
 
-A web-based financial management application focused on General Ledger operations.
+A web-based Financial Management Information System focused on General Ledger operations, designed to support structured financial recording, transaction monitoring, and financial reporting.
 
 **Key Features:**
-- Chart of Accounts (COA)
-- Journal Entries
-- General Ledger Reports
-- Profit & Loss Reports
-- Branch and date-based filtering
+- Chart of Accounts (COA) Management
+- Journal Entries Management
+- General Ledger Reporting
+- Profit & Loss Reporting
+- Branch and Date-Based Filtering
+- Financial Transaction Management
 
-**Technologies:** Laravel, PHP, MySQL, Blade, JavaScript
+**Technologies:** PHP, Laravel, MySQL, Blade, HTML, CSS, JavaScript
+
+🔗 **Repository:** [View Source Code](https://github.com/Nemesisstrom/CTC-General-Ledger)
+
+---
 
 ### 2. CRM Supermarket
 
-A web-based Customer Relationship Management system for supermarket operations.
+A web-based Customer Relationship Management system designed to support supermarket operations and customer data management.
 
 **Key Features:**
 - Customer Management
 - Product Management
 - Sales Management
-- Product Returns
+- Product Returns Management
+- Return Status Management
 - Inventory Updates
 
-**Technologies:** Laravel, PHP, MySQL, Blade
+**Technologies:** PHP, Laravel, MySQL, Blade, HTML, CSS, JavaScript
+
+🔗 **Repository:** [View Source Code](https://github.com/Nemesisstrom/project_crm_supermarket)
+
+---
 
 ### 3. Postpaid Electricity Payment Application
 
-A web-based application for managing postpaid electricity payments.
+A web-based application designed to manage postpaid electricity customer data, monthly electricity usage, and billing processes.
 
 **Key Features:**
 - Customer Management
-- Monthly Electricity Usage
-- Billing Management
+- Monthly Electricity Usage Management
+- Electricity Billing Management
 - Administrator and Customer Roles
+- Database Management
 
 **Technologies:** PHP, MySQL, SQL
 
+🔗 **Repository:** Repository not yet published.
+
+---
+
 ### 4. Flutter Mobile Applications
 
-Developed mobile application projects using Flutter.
+A collection of mobile application development projects using Flutter, focusing on user authentication, data management, and API integration.
 
 **Key Features:**
 - Login and User Profile
 - API Integration
 - CRUD Operations
-- Data Management
+- Mobile Data Management
+- Application Navigation
 
-**Technologies:** Flutter, Dart, REST API
+**Technologies:** Flutter, Dart, REST API, Dio
 
-### 5. Cocolink System
+🔗 **Repository:** Repository not yet published.
 
-A web-based application developed to support digital information management and operational processes.
+---
 
-**Project Details:**
-- Web application development
-- Data management
-- Backend and frontend integration
+### 5. CoCoLink System
 
-**Technologies:** Add the technologies used in this project.
+A software development project focused on building a digital information system using web technologies.
 
-### 6. Rice and Corn Management System
+**Technologies:** See project repository for implementation details.
 
-A web-based information system designed to support the management of rice and corn-related data.
+🔗 **Repository:** [View Source Code](https://github.com/Nemesisstrom/Sistem-CoCoLink)
 
-**Project Details:**
-- Agricultural data management
-- Information management
-- Data processing and reporting
+---
 
-**Technologies:** Add the technologies used in this project.
+### 6. National Rice and Corn Harvest System
+
+A web-based information system project focused on managing rice and corn harvest-related information and agricultural data.
+
+**Technologies:** See project repository for implementation details.
+
+🔗 **Repository:** [View Source Code](https://github.com/Nemesisstrom/Sistem-Panen-Padi-dan-Jagung-Nasional)
+
+---
+
+
 
 ---
 
